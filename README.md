@@ -1,1 +1,11 @@
 # Python-1st-project
+![8d9fdafe2ec24d51ccba3247d26f78fbBkiSVBOUglggoGTx-0](https://user-images.githubusercontent.com/120777172/209597787-67426e6b-3512-41e8-bfeb-2d3f72aca81b.png)
+![8d9fdafe2ec24d51ccba3247d26f78fbBkiSVBOUglggoGTx-1](https://user-images.githubusercontent.com/120777172/209597790-929478c1-6f68-44a1-9bea-89707ecc05e3.png)
+![8d9fdafe2ec24d51ccba3247d26f78fbBkiSVBOUglggoGTx-2](https://user-images.githubusercontent.com/120777172/209597792-0a4f34bf-e6c4-4a6b-83f2-b0b98f418ca1.png)
+![8d9fdafe2ec24d51ccba3247d26f78fbBkiSVBOUglggoGTx-3](https://user-images.githubusercontent.com/120777172/209597794-7913abe7-3807-4432-9618-fa5f5550c361.png)
+![8d9fdafe2ec24d51ccba3247d26f78fbBkiSVBOUglggoGTx-4](https://user-images.githubusercontent.com/120777172/209597797-e62d7693-dcce-4536-a9df-356ce020b039.png)
+![8d9fdafe2ec24d51ccba3247d26f78fbBkiSVBOUglggoGTx-5](https://user-images.githubusercontent.com/120777172/209597798-59d4a1a1-8c50-4b4f-98e2-9c50164e9040.png)
+![8d9fdafe2ec24d51ccba3247d26f78fbBkiSVBOUglggoGTx-6](https://user-images.githubusercontent.com/120777172/209597799-6fc8b881-85df-44ca-a2df-91b79fb1f49c.png)
+![8d9fdafe2ec24d51ccba3247d26f78fbBkiSVBOUglggoGTx-7](https://user-images.githubusercontent.com/120777172/209597800-b123913f-d53d-4fa5-b730-c06c24e6d137.png)
+![8d9fdafe2ec24d51ccba3247d26f78fbBkiSVBOUglggoGTx-8](https://user-images.githubusercontent.com/120777172/209597801-8b668a54-780d-4b0a-8826-37fe9838e68d.png)
+![8d9fdafe2ec24d51ccba3247d26f78fbBkiSVBOUglggoGTx-9](https://user-images.githubusercontent.com/120777172/209597803-de4f450e-75ed-44f0-80bb-e757c1be7a9d.png)
