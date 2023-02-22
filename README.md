@@ -1,4 +1,13 @@
-# Python-1st-project
+# Python 1st project
+## 스킨케어 추천 프로그램
+### 상세 내용
+- 다양한 피부타입과 성별, 연령대에 맞는 스킨케어 아이템을 추천하여 사용자가 쉽고 빠르게 원하는 정보를 얻을 수 있는 서비스를 제공한다.
+  - 간단한 선택지를 통해 사용자의 피부타입을 측정하여 추천 기능을 제공한다.
+  - 연령대별, 피부타입 별 전체 스킨케어 리스트를 제공한다.
+### 담당 역할
+- 주제 선정
+- 회원가입 기능(유효성 검사) 및 로그인, 로그아웃 기능 제작
+- PPT 제작 및 발표
 ![8d9fdafe2ec24d51ccba3247d26f78fbBkiSVBOUglggoGTx-0](https://user-images.githubusercontent.com/120777172/209597787-67426e6b-3512-41e8-bfeb-2d3f72aca81b.png)
 ![8d9fdafe2ec24d51ccba3247d26f78fbBkiSVBOUglggoGTx-1](https://user-images.githubusercontent.com/120777172/209597790-929478c1-6f68-44a1-9bea-89707ecc05e3.png)
 ![8d9fdafe2ec24d51ccba3247d26f78fbBkiSVBOUglggoGTx-2](https://user-images.githubusercontent.com/120777172/209597792-0a4f34bf-e6c4-4a6b-83f2-b0b98f418ca1.png)
